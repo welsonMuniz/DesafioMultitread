@@ -1,4 +1,4 @@
-#Description
+# Description
 
 Desafio com Multithreading - Go Expert
 
@@ -20,7 +20,7 @@ Os requisitos para este desafio são:
 
 - Limitar o tempo de resposta em 1 segundo. Caso contrário, o erro de timeout deve ser exibido.
 
-##How to run the project
+## How to run the project
 
 Informar o cep que deseja buscar na variavel cep.
 executar no terminal go run main.go
