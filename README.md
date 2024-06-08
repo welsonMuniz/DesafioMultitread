@@ -22,5 +22,6 @@ Os requisitos para este desafio são:
 
 ## How to run the project
 
-Informar o cep que deseja buscar na variavel cep.
-executar no terminal go run main.go
+- Informar o cep que deseja buscar na variavel cep.
+
+- Executar no terminal go run main.go
